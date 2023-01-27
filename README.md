@@ -21,12 +21,14 @@ Add images and other contents using CSS record a screenshot of it.
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/118706984/215165905-bf189dda-6254-4ea7-b725-561d0be4e383.png)
+
+
 ## Code:
 ## HTML:
-{% load static %}
+  {% load static %}
 
-<!DOCTYPE html>
-<html lang="en">
+  <!DOCTYPE html>
+   <html lang="en">
     <head>
         <title>Web Development Technologies</title>
         <link rel="stylesheet" href="{% static 'css/index.css' %}">
@@ -93,19 +95,19 @@ footer{
     border-top:2px solid #f47027;
     padding-top:10px;
     width:726px;
-}
+ }
 #HASH {
     display: flex;
     justify-content: space-between;
-}
+ }
   #HASH span{
     margin:10px 0px 20px 60px;
     font-size: xx-large;
     font-weight: bold;
-  }
+   }
   #end{
     padding-right:60px;
-  }
+   }
   
 ## Result:
 Thus the program to develop a website to display the cover page design of a book is done.
