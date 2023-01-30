@@ -141,3 +141,5 @@ Add images and other contents using CSS record a screenshot of it.
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/118706984/215165905-bf189dda-6254-4ea7-b725-561d0be4e383.png)
+## RESULT:
+Hence the program to print the book cover is succesfully runned.
